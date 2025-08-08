@@ -39,5 +39,7 @@ Visual Studio Code (VS Code) was used as the editor platform. The Jupyter extens
 This task is highly applicable in real-world spam detection systems used by messaging apps and email services. It introduces basic but powerful concepts in machine learning, especially in the domain of Natural Language Processing. It’s useful for beginner to intermediate-level ML projects and can be extended to more complex applications like phishing detection, review classification, and more.
 
 *OUTPUT*:
+
 <img width="820" height="327" alt="Image" src="https://github.com/user-attachments/assets/b540a23e-df54-49f5-9c72-c599167187de" />
 
+<img width="539" height="455" alt="Image" src="https://github.com/user-attachments/assets/6c80f214-8722-42eb-8dd2-18b96243075c" />
